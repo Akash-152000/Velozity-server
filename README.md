@@ -11,5 +11,7 @@ npm install
 
 Now that all of the dependencies are installed you are ready to run the server
 ```
-nodemon ./index.ja
+nodemon ./index.js
 ```
+
+In this project, we are using a file-based storage system, The data folder has favorites.json which acts as a database and stores all of the favorites.
